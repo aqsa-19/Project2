@@ -1,3 +1,3 @@
 # Project2
-This is a sample code practice.
+This project is created from local system.
 
